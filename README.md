@@ -1,6 +1,5 @@
 # (2024/1) EQUIPE 9
-Projeto da disciplina "Sistemas Microcontrolados". Implementação do painel de controle de uma
-geladeira, levando em consideração os recursos disponíveis no laboratório. 
+Projeto da disciplina "Sistemas Microcontrolados".
 
 ## PROPOSTA
 A inexistência de alertas sonoros ou visuais quando portas de geladeiras antigas não são
@@ -15,16 +14,27 @@ como outros periféricos úteis.
 
 ## DESENVOLVIMENTO
 
+### HIPÓTESES
+- A porta da geladeira quando permanece aberta aumenta a temperatura interna, causando o
+desperdício de energia, desgastando desnecessariamente os componentes e acelerando a deterioração
+de alimentos.
+   * Um LED indica o estado da porta (aberta/fechada).
+   * O sensor de distância corresponde ao estado da porta.
+   * Após um tempo definido pelo usuário o buzzer alertará até a porta ser fechada.
+   
+- O funcionamento indadequado dos componentes podem ocasionar os problemas citados acima, fazendo-se
+necessário o monitoramento da temperatura pelo sistema.
+   * A temperatura atual é monitorada constantemente, com exibição no display.
+   * A temperatura alvo pode ser controlada pelo usuário utilizando o teclado matricial.
+
+- O usuário terá possibilidade de controlar a temperatura alvo e o tempo do alerta quando a porta permanece aberta.
+
 ### DIVISÃO DE TAREFAS
 - Implementar push buttons, LEDs e teclado matricial.
     * Push buttons:
-      * Ação de abertura da porta (aberta/fechada).
       * Controle da exibição do display (modo temperatura/modo timer).
     * LEDs:
       * Estado da porta.
-      * Temperatura baixa.
-      * Temperatura normal.
-      * Temperatura alta.
     * Teclado matricial:
       * Escrita no display.
 - Implementar o display.
