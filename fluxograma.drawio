@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-04-16T20:19:36.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AZm75ausjlf5YcYfIb-p" version="24.2.5" type="device">
+  <diagram name="Página-1" id="1HaGfozNYKm_k4Q8iSCZ">
+    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kTn19bd_5WOI9I_XpRKQ-2" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="80" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kTn19bd_5WOI9I_XpRKQ-3" value="CONFIGURAÇÃO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kTn19bd_5WOI9I_XpRKQ-4" value="VERIFICA RE3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="210" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kTn19bd_5WOI9I_XpRKQ-5" value="ALTERNA O MODO DE EXIBIÇÃO DO DISPLAY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kTn19bd_5WOI9I_XpRKQ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="350" width="114" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
