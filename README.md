@@ -29,6 +29,9 @@ necessário o monitoramento da temperatura pelo sistema.
 
 - O usuário terá possibilidade de controlar a temperatura alvo e o tempo do alerta quando a porta permanece aberta.
 
+### ESBOÇO DA CONFIGURAÇÃO DOS PERIFÉRICOS
+![Print do esboço](https://github.com/KaiqueZambrano/2024-1_Projeto_Equipe_9/blob/main/lab5.drawio.png)
+
 ### DIVISÃO DE TAREFAS
 - Implementar push buttons, LEDs e teclado matricial.
     * Push buttons:
