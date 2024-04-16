@@ -1,5 +1,6 @@
 # (2024/1) EQUIPE 9
-Projeto da disciplina "Sistemas Microcontrolados".
+Projeto da disciplina "Sistemas Microcontrolados". Implementação do painel de controle de uma
+geladeira, levando em consideração os recursos disponíveis no laboratório. 
 
 ## PROPOSTA
 A inexistência de alertas sonoros ou visuais quando portas de geladeiras antigas não são
